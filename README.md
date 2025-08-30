@@ -30,7 +30,7 @@ Created pivot tables to identify trends in:
  <b>Dashboard Creation</b>
 
 Designed an interactive Excel dashboard with slicers and charts
-
+<img src="bike-sales-dashboard.png"></img>
 Key metrics displayed:
 
    1. Average income of buyers vs non-buyers
